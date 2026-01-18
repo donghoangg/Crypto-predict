@@ -1,4 +1,4 @@
-# Dự đoán giá tiền Bitcoin bằng cách mô hình học máy và học sâu 
+# Dự đoán giá tiền Bitcoin bằng các mô hình học máy và học sâu 
 
 ## 1. Mô tả dự án
 Xây dựng các mô hình học máy và học sâu để dự đoán giá tiền ảo, sau đó xây dựng web để trực quan hóa kết quả
